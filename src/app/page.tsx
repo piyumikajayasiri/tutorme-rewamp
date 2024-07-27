@@ -7,6 +7,7 @@ import OurTeam from "@/src/components/home-page/our-team";
 import WeWork from "@/src/components/home-page/we-work";
 import Faqs from "@/src/components/home-page/faq";
 import Digital from "@/src/components/home-page/digital";
+import FindATutorForm from "../components/find-a-tutor/page";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Faqs />
       <Testimonials />
       <KeepInTouch />
+      <FindATutorForm />
     </>
   );
 }

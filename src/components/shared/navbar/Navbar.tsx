@@ -21,7 +21,7 @@ enum FormType {
 }
 
 const navigation: NavigationItem[] = [
-  { name: "Find a Tutor", href: "#aboutus-section", current: false },
+  { name: "Find a Tutor", href: "#find-a-tutor-section", current: false },
   { name: "Tuition Rates", href: "#services-section", current: false },
   { name: "Subjects", href: "#faq-section", current: false },
   { name: "Test Papers", href: "#faq-section", current: false },
